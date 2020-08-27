@@ -1,0 +1,7 @@
+    @import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+	a:link{color:black; text-decoration: none;}
+	a:visited{color:black;}
+    table{background:white; border-color: #ffe5f3;}
+    th{color: rgb(255, 138, 183);}
+	td{color:gray;}
+    button {padding: 5px; font-family: "Jeju Gothic"; background-color: white; font-size: 13pt; height: 29px; border-color:black; border-radius:5px;}
